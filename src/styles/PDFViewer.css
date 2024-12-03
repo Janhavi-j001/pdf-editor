@@ -1,0 +1,26 @@
+.pdf-viewer {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .pdf-viewer canvas {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  .navigation {
+    margin-top: 10px;
+  }
+  
+  .navigation button {
+    padding: 5px 10px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .navigation p {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
